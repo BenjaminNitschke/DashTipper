@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashTipper", "DashTipper.csproj", "{A08751F9-84B0-453A-9CE2-699A76403638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08751F9-84B0-453A-9CE2-699A76403638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08751F9-84B0-453A-9CE2-699A76403638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08751F9-84B0-453A-9CE2-699A76403638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08751F9-84B0-453A-9CE2-699A76403638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7167D09A-1C05-4319-821A-A780CEB2C526}
+	EndGlobalSection
+EndGlobal
